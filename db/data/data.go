@@ -12,6 +12,9 @@ func GetDBData() []VehicleJSON {
 		log.Fatalf("Error while read data. Error: %s", err.Error())
 	}
 	var data []VehicleJSON
-	json.Unmarshal(file, &data)
+	err = json.Unmarshal(file, &data)
+	if err != nil {
+		log.Fatalf("Unmarshal data error. Error: %s", err.Error())
+	}
 	return data
 }

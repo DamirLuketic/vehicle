@@ -64,9 +64,8 @@ func (ds *MariaDBDataStore) GetVehicles() (v []Vehicle, err error) {
 }
 
 func (ds *MariaDBDataStore) setData() {
-	data := getData()
-	log.Println("TEST2 DATA", data)
-	for _, d := range data {
+	mockData := getData()
+	for _, d := range mockData {
 		_, err := ds.CreateVehicle(d)
 		if err != nil {
 			log.Fatalf("Error on inserting data. Error: %s", err.Error())
@@ -76,9 +75,9 @@ func (ds *MariaDBDataStore) setData() {
 }
 
 func getData() []Vehicle {
-	data := data.GetDBData()
+	mockData := data.GetDBData()
 	var paredData []Vehicle
-	for _, d := range data {
+	for _, d := range mockData {
 		paredData = append(paredData, Vehicle{
 			Make:  d.Make,
 			Model: d.Model,
