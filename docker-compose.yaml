@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  db:
+    image: mariadb:10.5.13
+    command: --max_allowed_packet=67108864
+    environment:
+      MYSQL_DATABASE: 'vehicle'
+      MYSQL_USER: 'vehicle'
+      MYSQL_PASSWORD: 'vehicle'
+      MYSQL_RANDOM_ROOT_PASSWORD: 'true'
+    ports:
+      - '3307:3306'
+  vehicle:
+    build: .
+    ports:
+      - '8080:8080'
+    depends_on:
+      - db

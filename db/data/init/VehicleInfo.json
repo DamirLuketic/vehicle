@@ -1,0 +1,4458 @@
+[
+  {
+    "_id": {
+      "$oid": "5ef8e95814ec08001db69eed"
+    },
+    "make": "ALFA ROMEO",
+    "model": "164",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95914ec08001db69ef3"
+    },
+    "make": "AUDI",
+    "model": "A6",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95914ec08001db69ef9"
+    },
+    "make": "AUDI",
+    "model": "S6",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95914ec08001db69eff"
+    },
+    "make": "AUDI",
+    "model": "90",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95914ec08001db69f05"
+    },
+    "make": "AUDI",
+    "model": "CABRIOLET",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95a14ec08001db69f0b"
+    },
+    "make": "BENTLEY",
+    "model": "CONTINENTAL",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95a14ec08001db69f11"
+    },
+    "make": "BENTLEY",
+    "model": "BROOKLANDS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95a14ec08001db69f17"
+    },
+    "make": "BENTLEY",
+    "model": "TURBO",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95a14ec08001db69f1d"
+    },
+    "make": "BENTLEY",
+    "model": "FLYING SPUR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95a14ec08001db69f24"
+    },
+    "make": "BMW",
+    "model": "740I",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95a14ec08001db69f2a"
+    },
+    "make": "BMW",
+    "model": "740LI",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95a14ec08001db69f30"
+    },
+    "make": "BMW",
+    "model": "750LI",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95a14ec08001db69f36"
+    },
+    "make": "BMW",
+    "model": "G 450 X",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95a14ec08001db69f3c"
+    },
+    "make": "BMW",
+    "model": "F 800 S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95a14ec08001db69f42"
+    },
+    "make": "BMW",
+    "model": "F 800 ST",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95a14ec08001db69f48"
+    },
+    "make": "BMW",
+    "model": "F 800 GS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69f4e"
+    },
+    "make": "BMW",
+    "model": "F 800 R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69f54"
+    },
+    "make": "BMW",
+    "model": "HP2",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69f5a"
+    },
+    "make": "BMW",
+    "model": "S 1000 RR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69f60"
+    },
+    "make": "BMW",
+    "model": "R 1200 GS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69f66"
+    },
+    "make": "BMW",
+    "model": "R 1200 R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69f6c"
+    },
+    "make": "BMW",
+    "model": "R 1200 RT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69f72"
+    },
+    "make": "BMW",
+    "model": "K 1300 S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69f78"
+    },
+    "make": "BMW",
+    "model": "K 1300 GT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69f7e"
+    },
+    "make": "BMW",
+    "model": "K 1300 R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69f84"
+    },
+    "make": "BMW",
+    "model": "F 650 GS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69f8a"
+    },
+    "make": "BMW",
+    "model": "G 650 GS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69f90"
+    },
+    "make": "BMW",
+    "model": "R 900 RT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69f96"
+    },
+    "make": "BMW",
+    "model": "K 1600 GT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69f9c"
+    },
+    "make": "BMW",
+    "model": "K 1600 GTL",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69fa2"
+    },
+    "make": "BMW",
+    "model": "F 700 GS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69fa8"
+    },
+    "make": "BMW",
+    "model": "F 800 GT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69fae"
+    },
+    "make": "BMW",
+    "model": "C 600",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69fb4"
+    },
+    "make": "BMW",
+    "model": "C 650 GT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69fba"
+    },
+    "make": "BMW",
+    "model": "HP4",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69fc0"
+    },
+    "make": "BMW",
+    "model": "S 1000 R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69fc6"
+    },
+    "make": "BMW",
+    "model": "R NINET",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69fcc"
+    },
+    "make": "BMW",
+    "model": "R 1150 GS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69fd2"
+    },
+    "make": "BMW",
+    "model": "R 1200 S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69fd8"
+    },
+    "make": "BMW",
+    "model": "R 1200 ST",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69fde"
+    },
+    "make": "BMW",
+    "model": "K 1200 R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69fe4"
+    },
+    "make": "BMW",
+    "model": "K 1200 S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69fea"
+    },
+    "make": "BMW",
+    "model": "K 1200 LT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69ff0"
+    },
+    "make": "BMW",
+    "model": "K 1200 GT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69ff6"
+    },
+    "make": "BMW",
+    "model": "R 1150 R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db69ffc"
+    },
+    "make": "BMW",
+    "model": "R 850 R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db6a002"
+    },
+    "make": "BMW",
+    "model": "525I",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db6a008"
+    },
+    "make": "BMW",
+    "model": "530I",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db6a00e"
+    },
+    "make": "BMW",
+    "model": "325I",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db6a014"
+    },
+    "make": "BMW",
+    "model": "K 1100 RS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95b14ec08001db6a01a"
+    },
+    "make": "BMW",
+    "model": "K75S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a020"
+    },
+    "make": "BMW",
+    "model": "K75RT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a024"
+    },
+    "make": "BMW",
+    "model": "K 1100 LT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a02a"
+    },
+    "make": "BMW",
+    "model": "R 100 R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a030"
+    },
+    "make": "BMW",
+    "model": "R 100 RT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a034"
+    },
+    "make": "BMW",
+    "model": "R 100 GS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a03a"
+    },
+    "make": "BMW",
+    "model": "R 1100 R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a040"
+    },
+    "make": "BMW",
+    "model": "R 1100 RS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a046"
+    },
+    "make": "BMW",
+    "model": "R 1100 GS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a04c"
+    },
+    "make": "BMW",
+    "model": "F 650",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a052"
+    },
+    "make": "BMW",
+    "model": "R 1100 RT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a058"
+    },
+    "make": "BMW",
+    "model": "K 1200 RS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a05e"
+    },
+    "make": "BMW",
+    "model": "R 1200 C",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a064"
+    },
+    "make": "BMW",
+    "model": "R 1100 S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a06a"
+    },
+    "make": "BMW",
+    "model": "R 1150 RS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a070"
+    },
+    "make": "BMW",
+    "model": "R 1150 RT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a076"
+    },
+    "make": "BMW",
+    "model": "R 1200 CL",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a07c"
+    },
+    "make": "BMW",
+    "model": "318I",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a082"
+    },
+    "make": "BMW",
+    "model": "318IS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a088"
+    },
+    "make": "BMW",
+    "model": "318IC",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a08e"
+    },
+    "make": "BMW",
+    "model": "325IS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a094"
+    },
+    "make": "BMW",
+    "model": "325IC",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a09a"
+    },
+    "make": "BMW",
+    "model": "525IT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a0a0"
+    },
+    "make": "BMW",
+    "model": "530IT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a0a6"
+    },
+    "make": "BMW",
+    "model": "540I",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a0ac"
+    },
+    "make": "BMW",
+    "model": "840CI",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a0b2"
+    },
+    "make": "BMW",
+    "model": "850CI",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a0b8"
+    },
+    "make": "BMW",
+    "model": "850CSI",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a0be"
+    },
+    "make": "BMW",
+    "model": "318TI",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a0c4"
+    },
+    "make": "BMW",
+    "model": "R 100 GSPD",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95c14ec08001db6a0ca"
+    },
+    "make": "BMW",
+    "model": "G 650",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95d14ec08001db6a0d0"
+    },
+    "make": "BUICK",
+    "model": "REGAL",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95d14ec08001db6a0d6"
+    },
+    "make": "BUICK",
+    "model": "PARK AVENUE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95d14ec08001db6a0dc"
+    },
+    "make": "BUICK",
+    "model": "LESABRE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95d14ec08001db6a0e2"
+    },
+    "make": "BUICK",
+    "model": "CENTURY",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95d14ec08001db6a0e8"
+    },
+    "make": "BUICK",
+    "model": "RIVIERA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95d14ec08001db6a0ee"
+    },
+    "make": "BUICK",
+    "model": "SKYLARK",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95d14ec08001db6a0f4"
+    },
+    "make": "BUICK",
+    "model": "COACHBUILDER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95d14ec08001db6a0fa"
+    },
+    "make": "BUICK",
+    "model": "ROADMASTER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95e14ec08001db6a100"
+    },
+    "make": "CADILLAC",
+    "model": "DEVILLE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95e14ec08001db6a106"
+    },
+    "make": "CADILLAC",
+    "model": "ELDORADO",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95e14ec08001db6a10c"
+    },
+    "make": "CADILLAC",
+    "model": "SEVILLE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95e14ec08001db6a112"
+    },
+    "make": "CADILLAC",
+    "model": "COMMERCIAL CHASSIS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95e14ec08001db6a118"
+    },
+    "make": "CADILLAC",
+    "model": "FLEETWOOD",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95e14ec08001db6a11e"
+    },
+    "make": "CHEVROLET",
+    "model": "CAMARO",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95e14ec08001db6a124"
+    },
+    "make": "CHEVROLET",
+    "model": "CORVETTE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95e14ec08001db6a12a"
+    },
+    "make": "CHEVROLET",
+    "model": "MALIBU",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95e14ec08001db6a130"
+    },
+    "make": "CHEVROLET",
+    "model": "SUBURBAN",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95e14ec08001db6a136"
+    },
+    "make": "CHEVROLET",
+    "model": "TAHOE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a13c"
+    },
+    "make": "CHEVROLET",
+    "model": "TRACKER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a142"
+    },
+    "make": "CHEVROLET",
+    "model": "W4",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a148"
+    },
+    "make": "CHEVROLET",
+    "model": "W5",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a14e"
+    },
+    "make": "CHEVROLET",
+    "model": "MONTE CARLO",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a154"
+    },
+    "make": "CHEVROLET",
+    "model": "CAVALIER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a15a"
+    },
+    "make": "CHEVROLET",
+    "model": "ASTRO VAN",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a160"
+    },
+    "make": "CHEVROLET",
+    "model": "B7",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a166"
+    },
+    "make": "CHEVROLET",
+    "model": "LUMINA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a16c"
+    },
+    "make": "CHEVROLET",
+    "model": "CAPRICE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a172"
+    },
+    "make": "CHEVROLET",
+    "model": "CORSICA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a178"
+    },
+    "make": "CHEVROLET",
+    "model": "BERETTA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a17e"
+    },
+    "make": "CHEVROLET",
+    "model": "HEARSE/LIMO",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a184"
+    },
+    "make": "CHEVROLET",
+    "model": "GMT-400",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a18a"
+    },
+    "make": "CHEVROLET",
+    "model": "S-10 PICKUP",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a190"
+    },
+    "make": "CHEVROLET",
+    "model": "LUMINA APV",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a196"
+    },
+    "make": "CHEVROLET",
+    "model": "BLAZER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a19c"
+    },
+    "make": "CHEVROLET",
+    "model": "C5",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a1a2"
+    },
+    "make": "CHEVROLET",
+    "model": "C6",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a1a8"
+    },
+    "make": "CHEVROLET",
+    "model": "C7",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a1ae"
+    },
+    "make": "CHEVROLET",
+    "model": "W7",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a1b4"
+    },
+    "make": "CHEVROLET",
+    "model": "W6",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a1ba"
+    },
+    "make": "CHEVROLET",
+    "model": "D7",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a1c0"
+    },
+    "make": "CHEVROLET",
+    "model": "P6S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a1c6"
+    },
+    "make": "CHEVROLET",
+    "model": "S-10",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a1cc"
+    },
+    "make": "CHEVROLET",
+    "model": "P TRUCK FORWARD",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a1d2"
+    },
+    "make": "CHEVROLET",
+    "model": "G-SERIES",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a1d8"
+    },
+    "make": "CHEVROLET",
+    "model": "CUTAWAY CHASSIS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e95f14ec08001db6a1de"
+    },
+    "make": "CHEVROLET",
+    "model": "MOTORHOME CHASSIS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a1e4"
+    },
+    "make": "CHRYSLER",
+    "model": "CIRRUS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a1ea"
+    },
+    "make": "CHRYSLER",
+    "model": "SEBRING",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a1f0"
+    },
+    "make": "CHRYSLER",
+    "model": "TOWN AND COUNTRY",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a1f6"
+    },
+    "make": "CHRYSLER",
+    "model": "PT CRUISER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a1fc"
+    },
+    "make": "CHRYSLER",
+    "model": "CONCORDE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a202"
+    },
+    "make": "CHRYSLER",
+    "model": "INTREPID",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a208"
+    },
+    "make": "CHRYSLER",
+    "model": "NEW YORKER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a20e"
+    },
+    "make": "CHRYSLER",
+    "model": "LHS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a214"
+    },
+    "make": "CHRYSLER",
+    "model": "VISION",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a21a"
+    },
+    "make": "CHRYSLER",
+    "model": "STRATUS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a220"
+    },
+    "make": "CHRYSLER",
+    "model": "VIPER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a226"
+    },
+    "make": "CHRYSLER",
+    "model": "NEON",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a22c"
+    },
+    "make": "CHRYSLER",
+    "model": "LEBARON",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a232"
+    },
+    "make": "CHRYSLER",
+    "model": "CONCORDE/LHS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96014ec08001db6a238"
+    },
+    "make": "CHRYSLER",
+    "model": "VOYAGER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a23e"
+    },
+    "make": "DODGE",
+    "model": "AVENGER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a244"
+    },
+    "make": "DODGE",
+    "model": "VIPER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a24a"
+    },
+    "make": "DODGE",
+    "model": "RAM",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a250"
+    },
+    "make": "DODGE",
+    "model": "DAKOTA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a256"
+    },
+    "make": "DODGE",
+    "model": "CARAVAN/GRAND CARAVAN",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a25c"
+    },
+    "make": "DODGE",
+    "model": "RAM CHASSIS CAB",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a262"
+    },
+    "make": "DODGE",
+    "model": "DURANGO",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a268"
+    },
+    "make": "DODGE",
+    "model": "INTREPID",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a26e"
+    },
+    "make": "DODGE",
+    "model": "STRATUS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a274"
+    },
+    "make": "DODGE",
+    "model": "NEON",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a27a"
+    },
+    "make": "DODGE",
+    "model": "COLT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a280"
+    },
+    "make": "DODGE",
+    "model": "STEALTH",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a286"
+    },
+    "make": "DODGE",
+    "model": "RAM VAN",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a28c"
+    },
+    "make": "DODGE",
+    "model": "RAM WAGON",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a292"
+    },
+    "make": "DODGE",
+    "model": "SPIRIT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a298"
+    },
+    "make": "DODGE",
+    "model": "CARAVAN",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a29e"
+    },
+    "make": "DODGE",
+    "model": "GRAND CARAVAN",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a2a4"
+    },
+    "make": "DODGE",
+    "model": "580 SERIES",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96114ec08001db6a2aa"
+    },
+    "make": "DODGE",
+    "model": "480 SERIES",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96214ec08001db6a2b0"
+    },
+    "make": "FIAT",
+    "model": "FREEMONT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96214ec08001db6a2b6"
+    },
+    "make": "FORD",
+    "model": "TRAVEL PARK",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96214ec08001db6a2bc"
+    },
+    "make": "FORD",
+    "model": "BRADFORD BUILT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96214ec08001db6a2c2"
+    },
+    "make": "FORD",
+    "model": "CROWN VICTORIA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96214ec08001db6a2c8"
+    },
+    "make": "FORD",
+    "model": "MUSTANG",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96214ec08001db6a2ce"
+    },
+    "make": "FORD",
+    "model": "TAURUS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a2d4"
+    },
+    "make": "FORD",
+    "model": "E-150",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a2da"
+    },
+    "make": "FORD",
+    "model": "EXPLORER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a2e0"
+    },
+    "make": "FORD",
+    "model": "F-150",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a2e6"
+    },
+    "make": "FORD",
+    "model": "RANGER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a2ec"
+    },
+    "make": "FORD",
+    "model": "F-250",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a2f2"
+    },
+    "make": "FORD",
+    "model": "F-350",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a2f8"
+    },
+    "make": "FORD",
+    "model": "E-250",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a2fe"
+    },
+    "make": "FORD",
+    "model": "E-350",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a304"
+    },
+    "make": "FORD",
+    "model": "E-450",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a30a"
+    },
+    "make": "FORD",
+    "model": "THUNDERBIRD",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a310"
+    },
+    "make": "FORD",
+    "model": "ESCORT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a316"
+    },
+    "make": "FORD",
+    "model": "WINDSTAR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a31c"
+    },
+    "make": "FORD",
+    "model": "F-800",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a322"
+    },
+    "make": "FORD",
+    "model": "ASPIRE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a328"
+    },
+    "make": "FORD",
+    "model": "PROBE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a32e"
+    },
+    "make": "FORD",
+    "model": "CONTOUR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a334"
+    },
+    "make": "FORD",
+    "model": "BRONCO",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a33a"
+    },
+    "make": "FORD",
+    "model": "AEROSTAR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a340"
+    },
+    "make": "FORD",
+    "model": "LT8501",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a346"
+    },
+    "make": "FORD",
+    "model": "LT9501",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a34c"
+    },
+    "make": "FORD",
+    "model": "L8513",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a352"
+    },
+    "make": "FORD",
+    "model": "LT8513",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a358"
+    },
+    "make": "FORD",
+    "model": "L9513",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a35e"
+    },
+    "make": "FORD",
+    "model": "LT9513",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a364"
+    },
+    "make": "FORD",
+    "model": "LT9522",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a36a"
+    },
+    "make": "FORD",
+    "model": "A8513",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a370"
+    },
+    "make": "FORD",
+    "model": "AT8513",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a376"
+    },
+    "make": "FORD",
+    "model": "A9513",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a37c"
+    },
+    "make": "FORD",
+    "model": "AT9513",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a382"
+    },
+    "make": "FORD",
+    "model": "A9522",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a388"
+    },
+    "make": "FORD",
+    "model": "AT9522",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a38e"
+    },
+    "make": "FORD",
+    "model": "B800",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a394"
+    },
+    "make": "FORD",
+    "model": "F-SUPER DUTY",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a39a"
+    },
+    "make": "FORD",
+    "model": "F-700",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a3a0"
+    },
+    "make": "FORD",
+    "model": "P700",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96314ec08001db6a3a6"
+    },
+    "make": "FORD",
+    "model": "P800",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a3ac"
+    },
+    "make": "FORD",
+    "model": "FT900",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a3b2"
+    },
+    "make": "FORD",
+    "model": "L8000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a3b8"
+    },
+    "make": "FORD",
+    "model": "L9000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a3be"
+    },
+    "make": "FORD",
+    "model": "LL9000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a3c4"
+    },
+    "make": "FORD",
+    "model": "LLA9000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a3ca"
+    },
+    "make": "FORD",
+    "model": "LLS9000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a3d0"
+    },
+    "make": "FORD",
+    "model": "LS8000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a3d6"
+    },
+    "make": "FORD",
+    "model": "LS9000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a3dc"
+    },
+    "make": "FORD",
+    "model": "LT8000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a3e2"
+    },
+    "make": "FORD",
+    "model": "LT9000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a3e8"
+    },
+    "make": "FORD",
+    "model": "LTS8000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a3ee"
+    },
+    "make": "FORD",
+    "model": "LTS9000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a3f4"
+    },
+    "make": "FORD",
+    "model": "LTL9000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a3fa"
+    },
+    "make": "FORD",
+    "model": "LTLA9000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a400"
+    },
+    "make": "FORD",
+    "model": "LTLS9000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a406"
+    },
+    "make": "FORD",
+    "model": "LA8000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a40c"
+    },
+    "make": "FORD",
+    "model": "LA9000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a412"
+    },
+    "make": "FORD",
+    "model": "LTA9000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a418"
+    },
+    "make": "FORD",
+    "model": "LN7000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a41e"
+    },
+    "make": "FORD",
+    "model": "LN8000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a424"
+    },
+    "make": "FORD",
+    "model": "LN9000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a42a"
+    },
+    "make": "FORD",
+    "model": "LNT8000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a430"
+    },
+    "make": "FORD",
+    "model": "LNT9000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a436"
+    },
+    "make": "FORD",
+    "model": "CF8000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a43c"
+    },
+    "make": "FORD",
+    "model": "CFT8000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a442"
+    },
+    "make": "FORD",
+    "model": "CF7000",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a448"
+    },
+    "make": "FORD",
+    "model": "'34",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a44e"
+    },
+    "make": "FORD",
+    "model": "MEDFORD STEEL",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96414ec08001db6a454"
+    },
+    "make": "FORD",
+    "model": "STAFFORD'S TRAILERS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a45a"
+    },
+    "make": "GMC",
+    "model": "SIERRA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a460"
+    },
+    "make": "GMC",
+    "model": "YUKON",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a466"
+    },
+    "make": "GMC",
+    "model": "YUKON XL",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a46c"
+    },
+    "make": "GMC",
+    "model": "W4",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a470"
+    },
+    "make": "GMC",
+    "model": "SAFARI",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a476"
+    },
+    "make": "GMC",
+    "model": "SONOMA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a47c"
+    },
+    "make": "GMC",
+    "model": "SUBURBAN",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a482"
+    },
+    "make": "GMC",
+    "model": "JIMMY UTILITY",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a488"
+    },
+    "make": "GMC",
+    "model": "C5",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a48e"
+    },
+    "make": "GMC",
+    "model": "C6",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a494"
+    },
+    "make": "GMC",
+    "model": "C7",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a49a"
+    },
+    "make": "GMC",
+    "model": "W5",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a49e"
+    },
+    "make": "GMC",
+    "model": "W7",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a4a4"
+    },
+    "make": "GMC",
+    "model": "B7",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a4aa"
+    },
+    "make": "GMC",
+    "model": "W6",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a4b0"
+    },
+    "make": "GMC",
+    "model": "P6S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a4b6"
+    },
+    "make": "GMC",
+    "model": "D7",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a4bc"
+    },
+    "make": "GMC",
+    "model": "P TRUCK FORWARD",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a4c2"
+    },
+    "make": "GMC",
+    "model": "MOTORHOME CHASSIS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a4c8"
+    },
+    "make": "GMC",
+    "model": "CUTAWAY CHASSIS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a4ce"
+    },
+    "make": "GMC",
+    "model": "VANDURA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a4d4"
+    },
+    "make": "GMC",
+    "model": "CUTAWAY VAN",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a4da"
+    },
+    "make": "GMC",
+    "model": "RALLY",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a4e0"
+    },
+    "make": "GMC",
+    "model": "WCS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96514ec08001db6a4e6"
+    },
+    "make": "GMC",
+    "model": "WCM",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a4ec"
+    },
+    "make": "GMC",
+    "model": "WCL",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a4f2"
+    },
+    "make": "GMC",
+    "model": "WHS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a4f8"
+    },
+    "make": "GMC",
+    "model": "WHM",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a4fe"
+    },
+    "make": "GMC",
+    "model": "WHL",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a504"
+    },
+    "make": "GMC",
+    "model": "WB",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a50a"
+    },
+    "make": "GMC",
+    "model": "DS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a510"
+    },
+    "make": "GMC",
+    "model": "ACM",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a516"
+    },
+    "make": "GMC",
+    "model": "ACL",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a51c"
+    },
+    "make": "GMC",
+    "model": "AT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a522"
+    },
+    "make": "GMC",
+    "model": "DK",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a528"
+    },
+    "make": "GMC",
+    "model": "WCA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a52e"
+    },
+    "make": "GMC",
+    "model": "WIA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a534"
+    },
+    "make": "GMC",
+    "model": "WIS",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a53a"
+    },
+    "make": "GMC",
+    "model": "WIM",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a540"
+    },
+    "make": "GMC",
+    "model": "WIL",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a546"
+    },
+    "make": "GMC",
+    "model": "WHR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a54c"
+    },
+    "make": "GMC",
+    "model": "WHLB",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a552"
+    },
+    "make": "GMC",
+    "model": "CACL",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a558"
+    },
+    "make": "GMC",
+    "model": "FE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a55e"
+    },
+    "make": "GMC",
+    "model": "CWG",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a564"
+    },
+    "make": "GMC",
+    "model": "NE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a56a"
+    },
+    "make": "GMC",
+    "model": "NR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a570"
+    },
+    "make": "GMC",
+    "model": "CNR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96614ec08001db6a576"
+    },
+    "make": "GMC",
+    "model": "WHEB",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a57c"
+    },
+    "make": "HONDA",
+    "model": "ACCORD",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a582"
+    },
+    "make": "HONDA",
+    "model": "CIVIC",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a588"
+    },
+    "make": "HONDA",
+    "model": "ODYSSEY",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a58e"
+    },
+    "make": "HONDA",
+    "model": "CBR1000RR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a594"
+    },
+    "make": "HONDA",
+    "model": "CBR500R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a59a"
+    },
+    "make": "HONDA",
+    "model": "CBR600RR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5a0"
+    },
+    "make": "HONDA",
+    "model": "CBR650F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5a6"
+    },
+    "make": "HONDA",
+    "model": "CTX1300",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5ac"
+    },
+    "make": "HONDA",
+    "model": "CTX700",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5b2"
+    },
+    "make": "HONDA",
+    "model": "GOLDWING",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5b8"
+    },
+    "make": "HONDA",
+    "model": "NC700X",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5be"
+    },
+    "make": "HONDA",
+    "model": "NPS50 (RUCKUS)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5c4"
+    },
+    "make": "HONDA",
+    "model": "ST1300PA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5ca"
+    },
+    "make": "HONDA",
+    "model": "XR650L",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5d0"
+    },
+    "make": "HONDA",
+    "model": "ST1300",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5d6"
+    },
+    "make": "HONDA",
+    "model": "CBR250R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5dc"
+    },
+    "make": "HONDA",
+    "model": "NT700V",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5e2"
+    },
+    "make": "HONDA",
+    "model": "CRF 230M",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5e8"
+    },
+    "make": "HONDA",
+    "model": "CB250 (NIGHTHAWK)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5ee"
+    },
+    "make": "HONDA",
+    "model": "VTX1300C",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5f4"
+    },
+    "make": "HONDA",
+    "model": "VTX1300R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a5fa"
+    },
+    "make": "HONDA",
+    "model": "VTX1300S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a600"
+    },
+    "make": "HONDA",
+    "model": "VTX1800C",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96714ec08001db6a606"
+    },
+    "make": "HONDA",
+    "model": "ST1300P",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a60c"
+    },
+    "make": "HONDA",
+    "model": "CB600F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a612"
+    },
+    "make": "HONDA",
+    "model": "CBR1100XX",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a618"
+    },
+    "make": "HONDA",
+    "model": "CBR954RR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a61e"
+    },
+    "make": "HONDA",
+    "model": "ST1100",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a624"
+    },
+    "make": "HONDA",
+    "model": "CBR900RR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a62a"
+    },
+    "make": "HONDA",
+    "model": "CBR600F3",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a630"
+    },
+    "make": "HONDA",
+    "model": "CBR600SE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a636"
+    },
+    "make": "HONDA",
+    "model": "PACIFIC COAST",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a63c"
+    },
+    "make": "HONDA",
+    "model": "VFR 750F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a642"
+    },
+    "make": "HONDA",
+    "model": "CBR1000F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a648"
+    },
+    "make": "HONDA",
+    "model": "XR250L",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a64e"
+    },
+    "make": "HONDA",
+    "model": "CB1000F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a654"
+    },
+    "make": "HONDA",
+    "model": "HAWK GT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a65a"
+    },
+    "make": "HONDA",
+    "model": "CB-1",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a660"
+    },
+    "make": "HONDA",
+    "model": "ELITE 250",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a666"
+    },
+    "make": "HONDA",
+    "model": "TOURIST TROPHY",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a66c"
+    },
+    "make": "HONDA",
+    "model": "NS50F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a672"
+    },
+    "make": "HONDA",
+    "model": "NX250",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a678"
+    },
+    "make": "HONDA",
+    "model": "NX125",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a67e"
+    },
+    "make": "HONDA",
+    "model": "SA50",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a684"
+    },
+    "make": "HONDA",
+    "model": "SB50P",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a68a"
+    },
+    "make": "HONDA",
+    "model": "VFR750R (RC30)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a690"
+    },
+    "make": "HONDA",
+    "model": "VTR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a696"
+    },
+    "make": "HONDA",
+    "model": "XL600V",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a69c"
+    },
+    "make": "HONDA",
+    "model": "CB125TT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a6a2"
+    },
+    "make": "HONDA",
+    "model": "VT1100C",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a6a8"
+    },
+    "make": "HONDA",
+    "model": "PRELUDE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a6ae"
+    },
+    "make": "HONDA",
+    "model": "PASSPORT",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a6b4"
+    },
+    "make": "HONDA",
+    "model": "DEL SOL",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a6ba"
+    },
+    "make": "HONDA",
+    "model": "CBR500RA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a6c0"
+    },
+    "make": "HONDA",
+    "model": "CRF450R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a6c6"
+    },
+    "make": "HONDA",
+    "model": "CRF250R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a6cc"
+    },
+    "make": "HONDA",
+    "model": "CRF150F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96814ec08001db6a6d2"
+    },
+    "make": "HONDA",
+    "model": "CRF50F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a6d8"
+    },
+    "make": "HONDA",
+    "model": "XR400R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a6de"
+    },
+    "make": "HONDA",
+    "model": "TRX700XX",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a6e4"
+    },
+    "make": "HONDA",
+    "model": "TRX450ER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a6ea"
+    },
+    "make": "HONDA",
+    "model": "FOURTRAX",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a6f0"
+    },
+    "make": "HONDA",
+    "model": "TRX400X",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a6f6"
+    },
+    "make": "HONDA",
+    "model": "SPORTRAX",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a6fc"
+    },
+    "make": "HONDA",
+    "model": "TRX450R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a702"
+    },
+    "make": "HONDA",
+    "model": "CRF70F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a708"
+    },
+    "make": "HONDA",
+    "model": "CRF100F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a70e"
+    },
+    "make": "HONDA",
+    "model": "CR250R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a714"
+    },
+    "make": "HONDA",
+    "model": "XR650R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a71a"
+    },
+    "make": "HONDA",
+    "model": "SA50P",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a720"
+    },
+    "make": "HONDA",
+    "model": "CR125R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a726"
+    },
+    "make": "HONDA",
+    "model": "XR250R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a72c"
+    },
+    "make": "HONDA",
+    "model": "MUV700 (BIG RED)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a732"
+    },
+    "make": "HONDA",
+    "model": "TRX90",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a738"
+    },
+    "make": "HONDA",
+    "model": "XR600R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a73e"
+    },
+    "make": "HONDA",
+    "model": "TRX200D",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a744"
+    },
+    "make": "HONDA",
+    "model": "TRX200DN",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a74a"
+    },
+    "make": "HONDA",
+    "model": "TRX250",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a750"
+    },
+    "make": "HONDA",
+    "model": "TRX300",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a756"
+    },
+    "make": "HONDA",
+    "model": "TRX300EX",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a75c"
+    },
+    "make": "HONDA",
+    "model": "TRX300EXN",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a762"
+    },
+    "make": "HONDA",
+    "model": "TRX300FW",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a768"
+    },
+    "make": "HONDA",
+    "model": "TRX300FWN",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a76e"
+    },
+    "make": "HONDA",
+    "model": "TRX300N",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a774"
+    },
+    "make": "HONDA",
+    "model": "TRX400FW",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a77a"
+    },
+    "make": "HONDA",
+    "model": "TRX400FWN",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a780"
+    },
+    "make": "HONDA",
+    "model": "TRX450S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a786"
+    },
+    "make": "HONDA",
+    "model": "TRX450ES",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a78c"
+    },
+    "make": "HONDA",
+    "model": "TRX400EX",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a792"
+    },
+    "make": "HONDA",
+    "model": "CTX700NDL (CTX700N DCT)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a798"
+    },
+    "make": "HONDA",
+    "model": "VT750C (SHADOW AERO)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a79e"
+    },
+    "make": "HONDA",
+    "model": "VT750CA (SHADOW AERO)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a7a4"
+    },
+    "make": "HONDA",
+    "model": "VT750CAL (SHADOW AERO)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96914ec08001db6a7aa"
+    },
+    "make": "HONDA",
+    "model": "CTX700 (CTX700D)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a7b0"
+    },
+    "make": "HONDA",
+    "model": "TRX500PG (RUBICON)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a7b6"
+    },
+    "make": "HONDA",
+    "model": "NCH50 (GIORNO)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a7bc"
+    },
+    "make": "HONDA",
+    "model": "GL1800A (GOLD WING)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a7c2"
+    },
+    "make": "HONDA",
+    "model": "GL1800AD (GOLD WING)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a7c8"
+    },
+    "make": "HONDA",
+    "model": "GL1800AL (GOLD WING)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a7ce"
+    },
+    "make": "HONDA",
+    "model": "GL1800B/F6B BAGGER",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a7d4"
+    },
+    "make": "HONDA",
+    "model": "GL1800C/VALKYRIE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a7da"
+    },
+    "make": "HONDA",
+    "model": "GL1800CA/GOLDWING VALKYRIE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a7e0"
+    },
+    "make": "HONDA",
+    "model": "CRF125F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a7e6"
+    },
+    "make": "HONDA",
+    "model": "CRF125FB",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a7ec"
+    },
+    "make": "HONDA",
+    "model": "CRF230F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a7f2"
+    },
+    "make": "HONDA",
+    "model": "CRF250X",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a7f8"
+    },
+    "make": "HONDA",
+    "model": "CRF450X",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a7fe"
+    },
+    "make": "HONDA",
+    "model": "CRF150R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a804"
+    },
+    "make": "HONDA",
+    "model": "CRF150RB",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a80a"
+    },
+    "make": "HONDA",
+    "model": "CBR600RA/CBR600RR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a810"
+    },
+    "make": "HONDA",
+    "model": "CBR600RRL/CBR600RR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a816"
+    },
+    "make": "HONDA",
+    "model": "CBR650FL/CBR650F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a81c"
+    },
+    "make": "HONDA",
+    "model": "CBR650FA/CBR650F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a822"
+    },
+    "make": "HONDA",
+    "model": "CBR650FA/CBR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a828"
+    },
+    "make": "HONDA",
+    "model": "CBR1000RA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a82e"
+    },
+    "make": "HONDA",
+    "model": "CBR1000R/CBR1000RR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a834"
+    },
+    "make": "HONDA",
+    "model": "CBR1000RL/CBR1000RR",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a83a"
+    },
+    "make": "HONDA",
+    "model": "NC750XA/NC750X",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a840"
+    },
+    "make": "HONDA",
+    "model": "VT1300CXA/FURY",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a846"
+    },
+    "make": "HONDA",
+    "model": "NC700XD/NC700X",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a84c"
+    },
+    "make": "HONDA",
+    "model": "CMX250C (REBEL)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a852"
+    },
+    "make": "HONDA",
+    "model": "VT750C2 (SHADOW SPIRIT 750)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a858"
+    },
+    "make": "HONDA",
+    "model": "VT750C2L (SHADOW SPIRIT 750)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a85e"
+    },
+    "make": "HONDA",
+    "model": "VT750C2F (SHADOW SPIRIT 750)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a864"
+    },
+    "make": "HONDA",
+    "model": "CBR600RR/CBR600RRE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a86a"
+    },
+    "make": "HONDA",
+    "model": "CBR1000RR/CBR1000RA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a870"
+    },
+    "make": "HONDA",
+    "model": "CBR1000S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a876"
+    },
+    "make": "HONDA",
+    "model": "GROM125 (GROM)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a87c"
+    },
+    "make": "HONDA",
+    "model": "MSX125 (GROM)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a882"
+    },
+    "make": "HONDA",
+    "model": "NC750SA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96a14ec08001db6a888"
+    },
+    "make": "HONDA",
+    "model": "VFR800F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a88e"
+    },
+    "make": "HONDA",
+    "model": "VFR800F (INTERCEPTOR)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a894"
+    },
+    "make": "HONDA",
+    "model": "CTX700TA/CTX700A",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a89a"
+    },
+    "make": "HONDA",
+    "model": "CTX1300A/CT1300AE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8a0"
+    },
+    "make": "HONDA",
+    "model": "CTX1300D/CTX1300",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8a6"
+    },
+    "make": "HONDA",
+    "model": "GL1800ALB (GOLD WING)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8ac"
+    },
+    "make": "HONDA",
+    "model": "GL1800C (GOLDWING VALKYRIE)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8b2"
+    },
+    "make": "HONDA",
+    "model": "ST1300A",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8b8"
+    },
+    "make": "HONDA",
+    "model": "CBR600RA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8be"
+    },
+    "make": "HONDA",
+    "model": "TRX420FPE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8c4"
+    },
+    "make": "HONDA",
+    "model": "TRX500FPE (FOREMAN)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8ca"
+    },
+    "make": "HONDA",
+    "model": "TRX500FPM (FOREMAN)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8d0"
+    },
+    "make": "HONDA",
+    "model": "VT750C2FL (SHADOW SPIRIT 750)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8d6"
+    },
+    "make": "HONDA",
+    "model": "FSC600A (SILVER WING)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8dc"
+    },
+    "make": "HONDA",
+    "model": "CBR250RA/CBR250R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8e2"
+    },
+    "make": "HONDA",
+    "model": "VFR1200FD/VFR1200F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8e8"
+    },
+    "make": "HONDA",
+    "model": "CRF80F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8ee"
+    },
+    "make": "HONDA",
+    "model": "NC700SA/NC700S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8f4"
+    },
+    "make": "HONDA",
+    "model": "CBF1000A",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a8fa"
+    },
+    "make": "HONDA",
+    "model": "TRX500FE (FOREMAN)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a900"
+    },
+    "make": "HONDA",
+    "model": "CRF230L",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a906"
+    },
+    "make": "HONDA",
+    "model": "CB1000R/CBR1000RA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a90c"
+    },
+    "make": "HONDA",
+    "model": "CBR125RW",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a912"
+    },
+    "make": "HONDA",
+    "model": "CBR250RA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a918"
+    },
+    "make": "HONDA",
+    "model": "VFR1200FAD",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a91e"
+    },
+    "make": "HONDA",
+    "model": "NT700VA/NT700V",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a924"
+    },
+    "make": "HONDA",
+    "model": "TRX420FPA (RANCHER)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a92a"
+    },
+    "make": "HONDA",
+    "model": "TRX420FM (RANCHER)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a930"
+    },
+    "make": "HONDA",
+    "model": "TRX420FPM (RANCHER)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a936"
+    },
+    "make": "HONDA",
+    "model": "TRX500FM (FOREMAN 500)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a93c"
+    },
+    "make": "HONDA",
+    "model": "TRX500FPA (FOREMAN RUBICON)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a942"
+    },
+    "make": "HONDA",
+    "model": "TRX500PGC (RUBICON)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a948"
+    },
+    "make": "HONDA",
+    "model": "TRX680FG (RINCON)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a94e"
+    },
+    "make": "HONDA",
+    "model": "FSC600D (SILVER WING)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a954"
+    },
+    "make": "HONDA",
+    "model": "NSA700A/DN-01",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a95a"
+    },
+    "make": "HONDA",
+    "model": "VT750CE/VT750",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a960"
+    },
+    "make": "HONDA",
+    "model": "VTX1300T/VTX",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96b14ec08001db6a966"
+    },
+    "make": "HONDA",
+    "model": "VTX1300TL/VTX",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a96c"
+    },
+    "make": "HONDA",
+    "model": "CBR125R/CBR125RE (SUPERSPORT)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a972"
+    },
+    "make": "HONDA",
+    "model": "VFR800 (INTERCEPTOR)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a978"
+    },
+    "make": "HONDA",
+    "model": "VFR800A (INTERCEPTOR)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a97e"
+    },
+    "make": "HONDA",
+    "model": "CBR1000RA/CBR1000R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a984"
+    },
+    "make": "HONDA",
+    "model": "CBR1000A2 (SUPERSPORT)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a98a"
+    },
+    "make": "HONDA",
+    "model": "CBR1000RE (SUPERSPORT)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a990"
+    },
+    "make": "HONDA",
+    "model": "CRF230LL/CRF230L",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a996"
+    },
+    "make": "HONDA",
+    "model": "XL1000V (VARADERO)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a99c"
+    },
+    "make": "HONDA",
+    "model": "CRF150RBE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9a2"
+    },
+    "make": "HONDA",
+    "model": "CRF150RE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9a8"
+    },
+    "make": "HONDA",
+    "model": "TRX300X",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9ae"
+    },
+    "make": "HONDA",
+    "model": "TRX420FE (RANCHER)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9b4"
+    },
+    "make": "HONDA",
+    "model": "TRX420FG",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9ba"
+    },
+    "make": "HONDA",
+    "model": "TRX420PMC",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9c0"
+    },
+    "make": "HONDA",
+    "model": "TRX500FEC",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9c6"
+    },
+    "make": "HONDA",
+    "model": "TRX500FG (RUBICON)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9cc"
+    },
+    "make": "HONDA",
+    "model": "TRX500PEC",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9d2"
+    },
+    "make": "HONDA",
+    "model": "TRX500PMC",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9d8"
+    },
+    "make": "HONDA",
+    "model": "NPS50S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9de"
+    },
+    "make": "HONDA",
+    "model": "CHF50 (METROPOLITAN)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9e4"
+    },
+    "make": "HONDA",
+    "model": "CHF50S (JAZZ)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9ea"
+    },
+    "make": "HONDA",
+    "model": "CHF50 (JAZZ)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9f0"
+    },
+    "make": "HONDA",
+    "model": "CHF50S (METROPOLITAN)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9f6"
+    },
+    "make": "HONDA",
+    "model": "GL1100 (GOLDWING)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6a9fc"
+    },
+    "make": "HONDA",
+    "model": "VT600C (SHADOW VLX)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6aa02"
+    },
+    "make": "HONDA",
+    "model": "VT750D (SHADOW SPIRIT 750)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6aa08"
+    },
+    "make": "HONDA",
+    "model": "VT1100C (SHADOW SPIRIT 1100)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6aa0e"
+    },
+    "make": "HONDA",
+    "model": "VT1100C2 (SHADOW SABRE)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6aa14"
+    },
+    "make": "HONDA",
+    "model": "VT1100D2",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6aa1a"
+    },
+    "make": "HONDA",
+    "model": "NRX1800 (VALKYRIE RUNE)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6aa20"
+    },
+    "make": "HONDA",
+    "model": "VTX1800F3/VTX1800F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6aa26"
+    },
+    "make": "HONDA",
+    "model": "VTX1800N/VTX1800 NEO RETRO",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6aa2c"
+    },
+    "make": "HONDA",
+    "model": "VTX1800R/VTX1800 RETRO",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6aa32"
+    },
+    "make": "HONDA",
+    "model": "VTX1800T1/VTX1800T",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6aa38"
+    },
+    "make": "HONDA",
+    "model": "CB599",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96c14ec08001db6aa3e"
+    },
+    "make": "HONDA",
+    "model": "CB900C/919",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa44"
+    },
+    "make": "HONDA",
+    "model": "CB900F/919",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa4a"
+    },
+    "make": "HONDA",
+    "model": "CBR1000RE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa50"
+    },
+    "make": "HONDA",
+    "model": "VTR1000S (RC51)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa56"
+    },
+    "make": "HONDA",
+    "model": "XL200R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa5c"
+    },
+    "make": "HONDA",
+    "model": "NT650J",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa62"
+    },
+    "make": "HONDA",
+    "model": "CR85R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa68"
+    },
+    "make": "HONDA",
+    "model": "CRF250RB",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa6e"
+    },
+    "make": "HONDA",
+    "model": "CRF450RB",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa74"
+    },
+    "make": "HONDA",
+    "model": "CG150ESD",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa7a"
+    },
+    "make": "HONDA",
+    "model": "XR200R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa80"
+    },
+    "make": "HONDA",
+    "model": "CB50R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa86"
+    },
+    "make": "HONDA",
+    "model": "NSR50MIN",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa8c"
+    },
+    "make": "HONDA",
+    "model": "TRX90EX",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa92"
+    },
+    "make": "HONDA",
+    "model": "TRX700EX",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa98"
+    },
+    "make": "HONDA",
+    "model": "TRX350FE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aa9e"
+    },
+    "make": "HONDA",
+    "model": "TRX350FM",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aaa4"
+    },
+    "make": "HONDA",
+    "model": "TRX350TE",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aaaa"
+    },
+    "make": "HONDA",
+    "model": "TRX350TM",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aab0"
+    },
+    "make": "HONDA",
+    "model": "TRX400FA",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aab6"
+    },
+    "make": "HONDA",
+    "model": "TRX400FG (FOURTRAX 400)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aabc"
+    },
+    "make": "HONDA",
+    "model": "TRX420FEC",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aac2"
+    },
+    "make": "HONDA",
+    "model": "TRX420FMC",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aac8"
+    },
+    "make": "HONDA",
+    "model": "TRX450FM",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aace"
+    },
+    "make": "HONDA",
+    "model": "TRX500CG (RUBICON)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aad4"
+    },
+    "make": "HONDA",
+    "model": "TRX500FA (RUBICON)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aada"
+    },
+    "make": "HONDA",
+    "model": "TRX650FA (RINCON)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aae0"
+    },
+    "make": "HONDA",
+    "model": "TRX650FG (RINCON)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aae6"
+    },
+    "make": "HONDA",
+    "model": "NSS250A (REFLEX)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aaec"
+    },
+    "make": "HONDA",
+    "model": "PS250 (BIG RUCKUS)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aaf2"
+    },
+    "make": "HONDA",
+    "model": "VT600CD (SHADOW VLX DELUXE)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aaf8"
+    },
+    "make": "HONDA",
+    "model": "VT750DCA (SHADOW SPIRIT 750)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6aafe"
+    },
+    "make": "HONDA",
+    "model": "VT750DA (SHADOW SPIRIT)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6ab04"
+    },
+    "make": "HONDA",
+    "model": "VT750DCB (SHADOW SPIRIT 750)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6ab0a"
+    },
+    "make": "HONDA",
+    "model": "VT750T",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6ab10"
+    },
+    "make": "HONDA",
+    "model": "VT1100C2D (SABRE)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6ab16"
+    },
+    "make": "HONDA",
+    "model": "VTX1800F2/VTX1800F",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6ab1c"
+    },
+    "make": "HONDA",
+    "model": "VTX1800R2/VTX1800R",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96d14ec08001db6ab22"
+    },
+    "make": "HONDA",
+    "model": "VTX1800TD",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab28"
+    },
+    "make": "HONDA",
+    "model": "VTX1800T2/VTX1800T",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab2e"
+    },
+    "make": "HONDA",
+    "model": "VFR800AT (INTERCEPTOR ABS)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab34"
+    },
+    "make": "HONDA",
+    "model": "CBR1000RR (SUPERSPORT)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab3a"
+    },
+    "make": "HONDA",
+    "model": "TRX500FMC (FOREMAN 500)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab40"
+    },
+    "make": "HONDA",
+    "model": "CH80 (ELITE)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab46"
+    },
+    "make": "HONDA",
+    "model": "NPS50S (RUCKUS)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab4c"
+    },
+    "make": "HONDA",
+    "model": "CN250 (HELIX)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab52"
+    },
+    "make": "HONDA",
+    "model": "NSS250S (REFLEX SPORT)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab58"
+    },
+    "make": "HONDA",
+    "model": "NSS250 (REFLEX)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab5e"
+    },
+    "make": "HONDA",
+    "model": "VT600C (VLX)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab64"
+    },
+    "make": "HONDA",
+    "model": "VT750C (A.C.E)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab6a"
+    },
+    "make": "HONDA",
+    "model": "VTX1300T",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab70"
+    },
+    "make": "HONDA",
+    "model": "VTX1800C2/VTX1800C",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab76"
+    },
+    "make": "HONDA",
+    "model": "VTX1800S1/VTX1800S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab7c"
+    },
+    "make": "HONDA",
+    "model": "VTX1800S3/VTX1800S",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab82"
+    },
+    "make": "HONDA",
+    "model": "CB600F/599",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab88"
+    },
+    "make": "HONDA",
+    "model": "CBR600F4/CBR600FI",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab8e"
+    },
+    "make": "HONDA",
+    "model": "CBR600FI (SUPERSPORT)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab94"
+    },
+    "make": "HONDA",
+    "model": "CBR600RR (SUPERSPORT)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6ab9a"
+    },
+    "make": "HONDA",
+    "model": "VFR800 (SPORT TOURER)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6aba0"
+    },
+    "make": "HONDA",
+    "model": "VFR800A (SPORT TOURER)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6aba6"
+    },
+    "make": "HONDA",
+    "model": "CB900F (HORNET)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6abac"
+    },
+    "make": "HONDA",
+    "model": "RVT1000R (RC51)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6abb2"
+    },
+    "make": "HONDA",
+    "model": "CR85R (COMPETITION)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6abb8"
+    },
+    "make": "HONDA",
+    "model": "CR125R (COMPETITION)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6abbe"
+    },
+    "make": "HONDA",
+    "model": "CR250R (COMPETITION)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6abc4"
+    },
+    "make": "HONDA",
+    "model": "CRF250R (COMPETITION)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6abca"
+    },
+    "make": "HONDA",
+    "model": "CRF450R (COMPETITION)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6abd0"
+    },
+    "make": "HONDA",
+    "model": "TRX500TM (FOURTRAX FOREMAN)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6abd6"
+    },
+    "make": "HONDA",
+    "model": "TRX500TM (FOREMAN 500)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6abdc"
+    },
+    "make": "HONDA",
+    "model": "TRX90 (90CC YOUTH MODEL)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6abe2"
+    },
+    "make": "HONDA",
+    "model": "TRX250EX (250 SPORT)",
+    "year": 1995
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6abe8"
+    },
+    "make": "HONDA",
+    "model": "VTR1000F (SUPERHAWK)",
+    "year": 1996
+  },
+  {
+    "_id": {
+      "$oid": "5ef8e96e14ec08001db6abee"
+    },
+    "make": "HONDA",
+    "model": "VTX1300C (VTX)",
+    "year": 1996
+  }
+]
